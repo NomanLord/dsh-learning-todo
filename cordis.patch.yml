@@ -1,0 +1,9 @@
+# Host half of the learning-todo bundle.
+#
+# The feature is entirely a browser surface: `client.js` registers the
+# left-sidebar entry and the page it opens. This row exists so the bundle can
+# be installed, listed, enabled, and removed like any other plugin, and so the
+# client half has an owning row to compose against.
+- insert:
+    - id: learning-todo
+      name: 'dsh-learning-todo'

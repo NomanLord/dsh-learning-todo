@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Learning todo",
+    "description": "A “Learning todo” panel in the left sidebar: add learning tasks, tick them off, and archive every ticked task into a completed list you can reopen at any time. The list is stored in this machine's browser, so it stays after switching sessions."
+  }
+}
